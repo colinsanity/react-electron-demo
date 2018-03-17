@@ -28,8 +28,3 @@ To generate a Window package, run:
 ```
 npm run package
 ```
-
-you can add package command for other OS like Linux or MacOS
-
-
-`Fork is welcome.`
